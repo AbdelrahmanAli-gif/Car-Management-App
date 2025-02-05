@@ -17,4 +17,3 @@ A React-based web application featuring Redux for state management and react-hoo
 - Redux Toolkit
 - react-hook-form
 - JavaScript (ES6+)
-- CSS/SCSS
